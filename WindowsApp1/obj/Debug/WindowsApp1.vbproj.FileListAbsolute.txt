@@ -1,0 +1,15 @@
+c:\users\jose\documents\visual studio 2017\Projects\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbprojResolveAssemblyReference.cache
+c:\users\jose\documents\visual studio 2017\Projects\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+c:\users\jose\documents\visual studio 2017\Projects\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.Cache
+c:\users\jose\documents\visual studio 2017\Projects\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+c:\users\jose\documents\visual studio 2017\Projects\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+c:\users\jose\documents\visual studio 2017\Projects\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+c:\users\jose\documents\visual studio 2017\Projects\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.xml
+c:\users\jose\documents\visual studio 2017\Projects\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+c:\users\jose\documents\visual studio 2017\Projects\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+c:\users\jose\documents\visual studio 2017\Projects\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb
+c:\users\jose\documents\visual studio 2017\Projects\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+c:\users\jose\documents\visual studio 2017\Projects\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Bienvanido.resources
+c:\users\jose\documents\visual studio 2017\Projects\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Lector.resources
+c:\users\jose\documents\visual studio 2017\Projects\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.libro.resources
+C:\Users\JOSE\Documents\Visual Studio 2017\Projects\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Usuario.resources
